@@ -2,7 +2,7 @@
 
 [![website](https://img.shields.io/badge/Project-Website-blue)](https://kksinghal.github.io/multi-sense-rescuer/)
 
-Exapnding beyond the task of single sound source seeking, this work tackles the task of navigating to multiple-sound emitting destinations, akin to search and rescue scenarios.
+Expanding beyond the task of single sound source seeking, this work tackles the task of navigating to multiple-sound emitting destinations, akin to search and rescue scenarios.
 This repository contains the modified version of SoundSpaces, Habitat-Sim and Habitat-Lab for supporting multi-destination navigation.
 
 ## Motivation
